@@ -11,9 +11,11 @@
                 <div class="days-container">
                     <div v-for="day in days">
                         <div class="card">
-                            <div class="card-body">
-                                <span class="card-title">{{ day.day }}</span>
-                                <img class="card-img-top" :src="day.weather_img" alt="Card image cap">
+                            <div class="card-body text-center">
+                                <span class="card-title fw-bold">{{ day.day }}</span><br>
+                                <img class="card-img-top" :src="day.weather_img" alt="Card image cap"><br>
+                                <span class="card-text"><span class="text-danger" style="font-weight: 600;">{{ day.temperature_max }}°</span> <span class="text-primary" style="font-weight: 600;">{{ day.temperature_min }}°</span></span><br>
+                                <span class="text-info" style="font-weight: 600;">{{ day.precipitation_sum_percent }}% <img :src="dropIcon" style="width: 12px;"></span>
                             </div>
                         </div>
                     </div>
@@ -23,10 +25,11 @@
 </template>
 
 <script setup>
-import { ref, defineProps, defineEmits, onMounted  } from 'vue';
+import { ref, onMounted  } from 'vue';
 import axios from 'axios';
 
-import wmo_codes from "./../assets/wmo.json";
+import { getWeatherIcon } from './../utils/wmo.js';
+import dropIcon from "./../assets/img/drop.png";
 
 const props = defineProps(['cityObject']);
 const emit = defineEmits(['close']);
@@ -34,7 +37,6 @@ const emit = defineEmits(['close']);
 const days = ref([]);
 
 onMounted(() => {
-    //https://api.open-meteo.com/v1/forecast?latitude=37.8916&longitude=-4.7728&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum
     axios
       .get('https://api.open-meteo.com/v1/forecast?latitude='+props.cityObject.lat+'&longitude='+props.cityObject.lng+'&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum')
       .then(response => {
@@ -61,10 +63,6 @@ function setData(data) {
     }
     console.log(days.value);
 };
-
-function getWeatherIcon(weather_code) {
-    return wmo_codes[weather_code].day.image;
-}
 </script>
 
 <style scoped>
@@ -76,13 +74,25 @@ function getWeatherIcon(weather_code) {
   margin: 0 auto;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1230px) {
   .days-container {
-    grid-template-columns: repeat(2, 1fr); /* Dos columnas para pantallas más pequeñas */
+    grid-template-columns: repeat(4, 1fr); /* Dos columnas para pantallas más pequeñas */
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 725px) {
+  .days-container {
+    grid-template-columns: repeat(3, 1fr); /* Una columna para pantallas muy pequeñas */
+  }
+}
+
+@media (max-width: 550px) {
+  .days-container {
+    grid-template-columns: repeat(2, 1fr); /* Una columna para pantallas muy pequeñas */
+  }
+}
+
+@media (max-width: 370px) {
   .days-container {
     grid-template-columns: 1fr; /* Una columna para pantallas muy pequeñas */
   }
