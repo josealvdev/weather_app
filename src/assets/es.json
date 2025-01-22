@@ -16,7 +16,7 @@
     "lng": "2.1769", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "admin", 
     "population": "4800000", 
     "population_proper": "1620343"
@@ -38,7 +38,7 @@
     "lng": "-5.9900", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "admin", 
     "population": "1100000", 
     "population_proper": "684025"
@@ -49,7 +49,7 @@
     "lng": "-4.4200", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "minor", 
     "population": "967250", 
     "population_proper": "586384"
@@ -137,7 +137,7 @@
     "lng": "-4.7796", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "minor", 
     "population": "323763", 
     "population_proper": "323763"
@@ -148,7 +148,7 @@
     "lng": "-4.7236", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-Leon", 
+    "admin_name": "Castilla y León", 
     "capital": "admin", 
     "population": "297459", 
     "population_proper": "297459"
@@ -214,7 +214,7 @@
     "lng": "-3.6008", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "minor", 
     "population": "230595", 
     "population_proper": "230595"
@@ -225,7 +225,7 @@
     "lng": "2.2461", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "225957", 
     "population_proper": "225957"
@@ -236,7 +236,7 @@
     "lng": "2.0130", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "225277", 
     "population_proper": "225277"
@@ -258,7 +258,7 @@
     "lng": "2.1075", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "218300", 
     "population_proper": "218300"
@@ -291,7 +291,7 @@
     "lng": "-6.1378", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "213231", 
     "population_proper": "213231"
@@ -313,7 +313,7 @@
     "lng": "-1.6500", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Navarre", 
+    "admin_name": "Navarra", 
     "capital": "admin", 
     "population": "205762", 
     "population_proper": "205762"
@@ -324,7 +324,7 @@
     "lng": "-2.4681", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "minor", 
     "population": "200578", 
     "population_proper": "200578"
@@ -401,7 +401,7 @@
     "lng": "-3.7067", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-Leon", 
+    "admin_name": "Castilla y León", 
     "capital": "minor", 
     "population": "174451", 
     "population_proper": "174451"
@@ -412,7 +412,7 @@
     "lng": "-1.8558", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-La Mancha", 
+    "admin_name": "Castilla-La Mancha", 
     "capital": "minor", 
     "population": "173206", 
     "population_proper": "173206"
@@ -445,7 +445,7 @@
     "lng": "-3.1674", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-La Mancha", 
+    "admin_name": "Castilla-La Mancha", 
     "capital": "minor", 
     "population": "161683", 
     "population_proper": "89010"
@@ -467,7 +467,7 @@
     "lng": "-4.8833", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "156295", 
     "population_proper": "156295"
@@ -500,7 +500,7 @@
     "lng": "-5.6642", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-Leon", 
+    "admin_name": "Castilla y León", 
     "capital": "minor", 
     "population": "143954", 
     "population_proper": "143954"
@@ -511,7 +511,7 @@
     "lng": "0.6333", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "minor", 
     "population": "143094", 
     "population_proper": "143094"
@@ -522,7 +522,7 @@
     "lng": "-6.9500", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "minor", 
     "population": "142532", 
     "population_proper": "142532"
@@ -533,7 +533,7 @@
     "lng": "-5.9222", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "138981", 
     "population_proper": "138981"
@@ -544,7 +544,7 @@
     "lng": "1.2528", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "minor", 
     "population": "138262", 
     "population_proper": "138262"
@@ -566,7 +566,7 @@
     "lng": "2.4500", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "129120", 
     "population_proper": "128956"
@@ -588,7 +588,7 @@
     "lng": "-5.4539", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "123639", 
     "population_proper": "123639"
@@ -599,7 +599,7 @@
     "lng": "-5.5700", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-Leon", 
+    "admin_name": "Castilla y León", 
     "capital": "minor", 
     "population": "122051", 
     "population_proper": "120951"
@@ -621,7 +621,7 @@
     "lng": "-3.7711", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "minor", 
     "population": "111888", 
     "population_proper": "111888"
@@ -632,7 +632,7 @@
     "lng": "-6.2975", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "minor", 
     "population": "111811", 
     "population_proper": "111811"
@@ -643,7 +643,7 @@
     "lng": "1.1080", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "108479", 
     "population_proper": "108479"
@@ -654,7 +654,7 @@
     "lng": "-2.6147", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "106510", 
     "population_proper": "106510"
@@ -665,7 +665,7 @@
     "lng": "2.8211", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "minor", 
     "population": "104320", 
     "population_proper": "104320"
@@ -742,7 +742,7 @@
     "lng": "2.0833", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "97530", 
     "population_proper": "97530"
@@ -753,7 +753,7 @@
     "lng": "-6.2000", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "93927", 
     "population_proper": "93927"
@@ -808,7 +808,7 @@
     "lng": "-4.0244", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-La Mancha", 
+    "admin_name": "Castilla-La Mancha", 
     "capital": "admin", 
     "population": "86070", 
     "population_proper": "86070"
@@ -819,7 +819,7 @@
     "lng": "-4.6250", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "85598", 
     "population_proper": "85598"
@@ -841,7 +841,7 @@
     "lng": "2.0430", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "83919", 
     "population_proper": "83919"
@@ -874,7 +874,7 @@
     "lng": "2.0325", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "80044", 
     "population_proper": "80044"
@@ -885,7 +885,7 @@
     "lng": "1.8272", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "78877", 
     "population_proper": "78877"
@@ -907,7 +907,7 @@
     "lng": "-4.5167", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "75801", 
     "population_proper": "75801"
@@ -962,7 +962,7 @@
     "lng": "-4.5003", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "70434", 
     "population_proper": "70434"
@@ -973,7 +973,7 @@
     "lng": "1.9820", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "68427", 
     "population_proper": "68427"
@@ -984,7 +984,7 @@
     "lng": "1.7256", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "68152", 
     "population_proper": "68152"
@@ -995,7 +995,7 @@
     "lng": "2.0197", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "66677", 
     "population_proper": "66677"
@@ -1017,7 +1017,7 @@
     "lng": "2.1000", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "65516", 
     "population_proper": "65516"
@@ -1039,7 +1039,7 @@
     "lng": "-5.3486", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "63773", 
     "population_proper": "63773"
@@ -1050,7 +1050,7 @@
     "lng": "2.2880", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "63092", 
     "population_proper": "63092"
@@ -1127,7 +1127,7 @@
     "lng": "2.2130", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "51824", 
     "population_proper": "51824"
@@ -1149,7 +1149,7 @@
     "lng": "-4.2833", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "51300", 
     "population_proper": "51300"
@@ -1160,7 +1160,7 @@
     "lng": "2.9650", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "47879", 
     "population_proper": "47879"
@@ -1171,7 +1171,7 @@
     "lng": "2.0039", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "47593", 
     "population_proper": "47593"
@@ -1182,7 +1182,7 @@
     "lng": "2.2547", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "47545", 
     "population_proper": "47545"
@@ -1193,7 +1193,7 @@
     "lng": "-6.0667", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "47541", 
     "population_proper": "47541"
@@ -1204,7 +1204,7 @@
     "lng": "2.0858", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "46921", 
     "population_proper": "46921"
@@ -1226,7 +1226,7 @@
     "lng": "2.0439", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "46056", 
     "population_proper": "46056"
@@ -1270,7 +1270,7 @@
     "lng": "2.7930", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "41653", 
     "population_proper": "41653"
@@ -1281,7 +1281,7 @@
     "lng": "1.6167", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "41164", 
     "population_proper": "41164"
@@ -1292,7 +1292,7 @@
     "lng": "1.6994", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "40714", 
     "population_proper": "40714"
@@ -1314,7 +1314,7 @@
     "lng": "1.5347", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "39601", 
     "population_proper": "39601"
@@ -1347,7 +1347,7 @@
     "lng": "2.1574", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "38347", 
     "population_proper": "38347"
@@ -1358,7 +1358,7 @@
     "lng": "2.4833", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "37975", 
     "population_proper": "37975"
@@ -1369,7 +1369,7 @@
     "lng": "2.2230", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "37925", 
     "population_proper": "37925"
@@ -1380,7 +1380,7 @@
     "lng": "2.1878", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "36891", 
     "population_proper": "36891"
@@ -1391,7 +1391,7 @@
     "lng": "1.0583", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "36496", 
     "population_proper": "36496"
@@ -1413,7 +1413,7 @@
     "lng": "-3.2681", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-La Mancha", 
+    "admin_name": "Castilla-La Mancha", 
     "capital": "", 
     "population": "35236", 
     "population_proper": "35182"
@@ -1424,7 +1424,7 @@
     "lng": "2.0581", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "34568", 
     "population_proper": "34568"
@@ -1446,7 +1446,7 @@
     "lng": "2.7881", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "32517", 
     "population_proper": "32517"
@@ -1468,7 +1468,7 @@
     "lng": "1.5700", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "30631", 
     "population_proper": "30631"
@@ -1479,7 +1479,7 @@
     "lng": "1.1440", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "30224", 
     "population_proper": "30224"
@@ -1523,7 +1523,7 @@
     "lng": "2.3619", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "28767", 
     "population_proper": "28767"
@@ -1534,7 +1534,7 @@
     "lng": "1.9280", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "28760", 
     "population_proper": "28760"
@@ -1545,7 +1545,7 @@
     "lng": "-6.0333", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "28157", 
     "population_proper": "28157"
@@ -1556,7 +1556,7 @@
     "lng": "2.0108", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "28115", 
     "population_proper": "28079"
@@ -1600,7 +1600,7 @@
     "lng": "1.9769", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "26910", 
     "population_proper": "26910"
@@ -1611,7 +1611,7 @@
     "lng": "2.0158", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "26555", 
     "population_proper": "26555"
@@ -1622,7 +1622,7 @@
     "lng": "2.1819", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "25928", 
     "population_proper": "25928"
@@ -1655,7 +1655,7 @@
     "lng": "-6.0458", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "25374", 
     "population_proper": "25374"
@@ -1688,7 +1688,7 @@
     "lng": "-3.6167", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "25059", 
     "population_proper": "25059"
@@ -1699,7 +1699,7 @@
     "lng": "1.8944", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "24446", 
     "population_proper": "24446"
@@ -1732,7 +1732,7 @@
     "lng": "1.1450", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "23176", 
     "population_proper": "23176"
@@ -1754,7 +1754,7 @@
     "lng": "-6.0667", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "22780", 
     "population_proper": "22780"
@@ -1765,7 +1765,7 @@
     "lng": "3.0333", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "22751", 
     "population_proper": "22751"
@@ -1776,7 +1776,7 @@
     "lng": "-6.0167", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "22472", 
     "population_proper": "22472"
@@ -1787,7 +1787,7 @@
     "lng": "-3.6333", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "22275", 
     "population_proper": "22275"
@@ -1820,7 +1820,7 @@
     "lng": "2.2836", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "21172", 
     "population_proper": "21172"
@@ -1831,7 +1831,7 @@
     "lng": "2.3910", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "21055", 
     "population_proper": "21055"
@@ -1842,7 +1842,7 @@
     "lng": "3.1631", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "21049", 
     "population_proper": "21049"
@@ -1864,7 +1864,7 @@
     "lng": "2.7664", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "20506", 
     "population_proper": "20506"
@@ -1875,7 +1875,7 @@
     "lng": "2.0750", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "20462", 
     "population_proper": "20462"
@@ -1897,7 +1897,7 @@
     "lng": "2.6575", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "19862", 
     "population_proper": "19862"
@@ -1919,7 +1919,7 @@
     "lng": "-1.6667", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Navarre", 
+    "admin_name": "Navarra", 
     "capital": "", 
     "population": "19575", 
     "population_proper": "19575"
@@ -1930,7 +1930,7 @@
     "lng": "2.7500", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "19213", 
     "population_proper": "19213"
@@ -1952,7 +1952,7 @@
     "lng": "2.3594", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "19023", 
     "population_proper": "19023"
@@ -1985,7 +1985,7 @@
     "lng": "3.1292", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "18196", 
     "population_proper": "18145"
@@ -1996,7 +1996,7 @@
     "lng": "1.4000", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "17670", 
     "population_proper": "17670"
@@ -2007,7 +2007,7 @@
     "lng": "-6.0500", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "17167", 
     "population_proper": "17167"
@@ -2018,7 +2018,7 @@
     "lng": "2.2847", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "17051", 
     "population_proper": "17051"
@@ -2051,7 +2051,7 @@
     "lng": "1.6736", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "16914", 
     "population_proper": "16914"
@@ -2062,7 +2062,7 @@
     "lng": "2.2667", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "16800", 
     "population_proper": "16800"
@@ -2084,7 +2084,7 @@
     "lng": "-3.6500", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "16445", 
     "population_proper": "16445"
@@ -2095,7 +2095,7 @@
     "lng": "2.5503", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "16342", 
     "population_proper": "16342"
@@ -2106,7 +2106,7 @@
     "lng": "-2.6147", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "16176", 
     "population_proper": "16176"
@@ -2139,7 +2139,7 @@
     "lng": "1.6406", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "15278", 
     "population_proper": "15278"
@@ -2150,7 +2150,7 @@
     "lng": "0.8961", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "15037", 
     "population_proper": "15037"
@@ -2161,7 +2161,7 @@
     "lng": "2.5833", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "15010", 
     "population_proper": "15010"
@@ -2183,7 +2183,7 @@
     "lng": "2.2650", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "14902", 
     "population_proper": "14902"
@@ -2205,7 +2205,7 @@
     "lng": "-3.6000", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "14803", 
     "population_proper": "14803"
@@ -2227,7 +2227,7 @@
     "lng": "-5.6325", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-Leon", 
+    "admin_name": "Castilla y León", 
     "capital": "", 
     "population": "14661", 
     "population_proper": "14661"
@@ -2238,7 +2238,7 @@
     "lng": "-6.0781", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "13481", 
     "population_proper": "13481"
@@ -2249,7 +2249,7 @@
     "lng": "2.1928", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "13169", 
     "population_proper": "13169"
@@ -2282,7 +2282,7 @@
     "lng": "1.6333", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "12736", 
     "population_proper": "12699"
@@ -2304,7 +2304,7 @@
     "lng": "2.2805", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "12462", 
     "population_proper": "12462"
@@ -2315,7 +2315,7 @@
     "lng": "-3.5667", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "12159", 
     "population_proper": "12159"
@@ -2326,7 +2326,7 @@
     "lng": "2.4828", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "11831", 
     "population_proper": "11831"
@@ -2348,7 +2348,7 @@
     "lng": "1.9978", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "11736", 
     "population_proper": "11736"
@@ -2359,7 +2359,7 @@
     "lng": "-3.6333", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "11676", 
     "population_proper": "11676"
@@ -2381,7 +2381,7 @@
     "lng": "-1.6714", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Navarre", 
+    "admin_name": "Navarra", 
     "capital": "", 
     "population": "10919", 
     "population_proper": "10919"
@@ -2414,7 +2414,7 @@
     "lng": "-6.0167", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "10388", 
     "population_proper": "10388"
@@ -2425,7 +2425,7 @@
     "lng": "-1.8214", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "10336", 
     "population_proper": "10336"
@@ -2447,7 +2447,7 @@
     "lng": "2.2960", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "10139", 
     "population_proper": "10139"
@@ -2480,7 +2480,7 @@
     "lng": "2.2697", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "9198", 
     "population_proper": "9198"
@@ -2491,7 +2491,7 @@
     "lng": "2.2500", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "8825", 
     "population_proper": "8825"
@@ -2524,7 +2524,7 @@
     "lng": "-6.0433", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "8539", 
     "population_proper": "8539"
@@ -2546,7 +2546,7 @@
     "lng": "2.0279", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "8393", 
     "population_proper": "8393"
@@ -2579,7 +2579,7 @@
     "lng": "2.3677", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "7799", 
     "population_proper": "7799"
@@ -2590,7 +2590,7 @@
     "lng": "-3.6706", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "7770", 
     "population_proper": "7770"
@@ -2678,7 +2678,7 @@
     "lng": "-6.1333", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "6814", 
     "population_proper": "6814"
@@ -2689,7 +2689,7 @@
     "lng": "2.3240", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "6696", 
     "population_proper": "6696"
@@ -2700,7 +2700,7 @@
     "lng": "2.3106", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "6680", 
     "population_proper": "6680"
@@ -2722,7 +2722,7 @@
     "lng": "1.9030", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "6109", 
     "population_proper": "6109"
@@ -2744,7 +2744,7 @@
     "lng": "-3.5667", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "5447", 
     "population_proper": "5447"
@@ -2755,7 +2755,7 @@
     "lng": "1.6867", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "5417", 
     "population_proper": "5417"
@@ -2766,7 +2766,7 @@
     "lng": "2.8180", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "5327", 
     "population_proper": "5327"
@@ -2810,7 +2810,7 @@
     "lng": "2.6333", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "4410", 
     "population_proper": "4410"
@@ -2832,7 +2832,7 @@
     "lng": "-3.6000", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "4061", 
     "population_proper": "4061"
@@ -2865,7 +2865,7 @@
     "lng": "2.2389", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "3711", 
     "population_proper": "3711"
@@ -2898,7 +2898,7 @@
     "lng": "2.5286", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "3223", 
     "population_proper": "3223"
@@ -2931,7 +2931,7 @@
     "lng": "-6.0500", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Andalusia", 
+    "admin_name": "Andalucía", 
     "capital": "", 
     "population": "2874", 
     "population_proper": "2874"
@@ -2986,7 +2986,7 @@
     "lng": "1.3167", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Catalonia", 
+    "admin_name": "Cataluña", 
     "capital": "", 
     "population": "1992", 
     "population_proper": "1992"
@@ -3085,7 +3085,7 @@
     "lng": "-5.1667", 
     "country": "Spain", 
     "iso2": "ES", 
-    "admin_name": "Castille-La Mancha", 
+    "admin_name": "Castilla-La Mancha", 
     "capital": "", 
     "population": "1171", 
     "population_proper": "1171"

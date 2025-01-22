@@ -10,10 +10,11 @@
                     :icon-anchor="[10, 10]"
                     :icon-url="cityIcon" >
                </l-icon>
-               <l-popup><b style="font-size: 15px;">{{city.city}}</b><br>({{ city.admin_name }})<br><p class="open" @click="openModal(city)">Ver</p></l-popup>
+               <l-popup><b style="font-size: 15px;">{{city.city}}</b><br>({{ city.admin_name }})<br><br><span class="open" @click="openModal(city)">Ver</span></l-popup>
           </l-marker>
      </l-map>
      <CityComponent v-if="isModalVisible" :cityObject="cityObject" @close="closeModal()" />
+     <SearchComponent />
 </template>
 
 <script setup>
@@ -22,6 +23,7 @@ import { LMap, LTileLayer, LMarker, LPopup, LIcon } from "@vue-leaflet/vue-leafl
 
 import { ref } from 'vue';
 import CityComponent from "./CityComponent.vue";
+import SearchComponent from "./SearchComponent.vue";
 
 import cities from "./../assets/es.json";
 import cityIcon from "./../assets/img/city.png";

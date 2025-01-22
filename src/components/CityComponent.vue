@@ -1,18 +1,22 @@
 <template>
         <div class="modal-overlay">
             <div class="modal-city">
-                <div class="row mb-4">
-                    <div class="col-11">
-                        <span style="font-size: 28px;margin-right: 8px;"><b>{{ cityObject.city }}</b></span>
-                        <span>({{ cityObject.admin_name }})</span>
+                <div class="mb-4">
+                    <div class="upperMenu">
+                        <div class="divName">
+                          <span class="cityName"><b>{{ cityObject.city }}</b></span>
+                          <span>({{ cityObject.admin_name }})</span>
+                        </div>
+                        <div class="divClose">
+                          <span class="closeb btn btn-secondary" @click="emit('close')">&times;</span>
+                        </div>
                     </div>
-                    <button class="col-1 btn btn-secondary" @click="emit('close')">&times;</button>
                 </div>
                 <div class="days-container">
                     <div v-for="day in days">
                         <div class="card">
                             <div class="card-body text-center">
-                                <span class="card-title fw-bold">{{ day.day }}</span><br>
+                                <span class="dayDate card-title fw-bold">{{ day.day }}</span><br>
                                 <img class="card-img-top" :src="day.weather_img" alt="Card image cap"><br>
                                 <span class="card-text"><span class="text-danger" style="font-weight: 600;">{{ day.temperature_max }}°</span> <span class="text-primary" style="font-weight: 600;">{{ day.temperature_min }}°</span></span><br>
                                 <span class="text-info" style="font-weight: 600;">{{ day.precipitation_sum_percent }}% <img :src="dropIcon" style="width: 12px;"></span>
@@ -64,37 +68,3 @@ function setData(data) {
     console.log(days.value);
 };
 </script>
-
-<style scoped>
-.days-container {
-  display: grid;
-  grid-template-columns: repeat(7, 1fr); /* Tres columnas */
-  gap: 20px; /* Espaciado entre las tarjetas */
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-@media (max-width: 1230px) {
-  .days-container {
-    grid-template-columns: repeat(4, 1fr); /* Dos columnas para pantallas más pequeñas */
-  }
-}
-
-@media (max-width: 725px) {
-  .days-container {
-    grid-template-columns: repeat(3, 1fr); /* Una columna para pantallas muy pequeñas */
-  }
-}
-
-@media (max-width: 550px) {
-  .days-container {
-    grid-template-columns: repeat(2, 1fr); /* Una columna para pantallas muy pequeñas */
-  }
-}
-
-@media (max-width: 370px) {
-  .days-container {
-    grid-template-columns: 1fr; /* Una columna para pantallas muy pequeñas */
-  }
-}
-</style>
