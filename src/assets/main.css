@@ -28,7 +28,7 @@ main {
 }
 
 .modal-city {
-  background-color: white !important;
+  background-color: #22a6b3 !important;
   padding: 20px;
   border-radius: 8px !important;
   width: 70% !important;
@@ -51,6 +51,10 @@ button {
 /* MapComponent Styles*/
 
 /* SearchComponent Styles*/
+.search-results {
+  background-color: #ffffff;
+}
+
 .search-box{
   width: fit-content;
   height: fit-content;
@@ -59,6 +63,7 @@ button {
   position: absolute;
   z-index: 9999;
 }
+
 .input-search{
   height: 50px;
   width: 50px;
@@ -73,12 +78,14 @@ button {
   padding-right: 40px;
   color:#ffffff;
 }
+
 .input-search::placeholder{
   color:#ffffff;
   font-size: 14px;
   letter-spacing: 2px;
   font-weight: 100;
 }
+
 .btn-search{
   width: 50px;
   height: 50px;
@@ -94,6 +101,7 @@ button {
   background-color:transparent;
   pointer-events: painted;  
 }
+
 .btn-search:focus ~ .input-search{
   width: 300px;
   border-radius: 0px;
@@ -103,6 +111,7 @@ button {
   border-bottom:1px solid rgba(255,255,255,.5);
   transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
 }
+
 .input-search:focus{
   width: 300px;
   color: #ffffff;
@@ -130,10 +139,14 @@ button {
 }
 
 .divName {
+  background-color: #ffffff;
+  padding: 5px;
+  border-radius: 10px;
   grid-column: span 6 / span 6;
 }
 
 .divClose {
+  padding: 10px;
   text-align: right;
   grid-column-start: 7;
 }
@@ -182,6 +195,10 @@ button {
 @media (max-width: 620px) {
   .days-container {
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  .divName {
+    padding: 15px;
   }
 
   .cityName{

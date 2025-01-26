@@ -4,11 +4,11 @@
                layer-type="base"
                name="Stadia Maps Basemap">
           </l-tile-layer>
-          <l-marker v-for="city in cities" :lat-lng="[city.lat,city.lng]">
+          <l-marker v-for="(city, index) in cities" :key="index" :lat-lng="[city.lat,city.lng]">
                <l-icon
-                    :icon-size="[32, 37]"
-                    :icon-anchor="[10, 10]"
-                    :icon-url="cityIcon" >
+                    :icon-size="[52, 50]"
+                    :icon-anchor="[24, 10]"
+                    :iconUrl="citiesWeatherIcon[index]">
                </l-icon>
                <l-popup><b style="font-size: 15px;">{{city.city}}</b><br>({{ city.admin_name }})<br><br><span class="open" @click="openModal(city)">Ver</span></l-popup>
           </l-marker>
@@ -26,7 +26,11 @@ import CityComponent from "./CityComponent.vue";
 import SearchComponent from "./SearchComponent.vue";
 
 import cities from "./../assets/es.json";
-import cityIcon from "./../assets/img/city.png";
+//import cityIcon from "./../assets/img/city.png";
+
+import { useCityStore } from '@/stores/city';
+const store = useCityStore();
+const { citiesWeatherIcon } = store;
 
 let zoom = 5;
 let center = [40, -5];

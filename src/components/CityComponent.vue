@@ -14,7 +14,7 @@
                 </div>
                 <div class="days-container">
                     <div v-for="day in days">
-                        <div class="card">
+                        <div class="card" style="border: 0;">
                             <div class="card-body text-center">
                                 <span class="dayDate card-title fw-bold">{{ day.day }}</span><br>
                                 <img class="card-img-top" :src="day.weather_img" alt="Card image cap"><br>
@@ -41,16 +41,19 @@ const emit = defineEmits(['close']);
 const days = ref([]);
 
 onMounted(() => {
-    axios
+    getData();
+})
+
+async function getData() {
+    await axios
       .get('https://api.open-meteo.com/v1/forecast?latitude='+props.cityObject.lat+'&longitude='+props.cityObject.lng+'&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum')
       .then(response => {
         setData(response.data)
       })
       .catch(error => {
         console.log(error)
-      })
-      .finally(() => /*this.loading = false*/ console.log("finally"));
-})
+      });
+}
 
 function setData(data) {
     console.log(data);
@@ -65,6 +68,5 @@ function setData(data) {
         }
         days.value.push(dayObject);
     }
-    console.log(days.value);
 };
 </script>
