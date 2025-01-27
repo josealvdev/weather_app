@@ -56,7 +56,6 @@ async function getData() {
 }
 
 function setData(data) {
-    console.log(data);
     for (let i = 0; i < data.daily.time.length; i++) {
         let weather_icon = getWeatherIcon(data.daily.weather_code[i]);
         let dayObject = {

@@ -53,6 +53,25 @@ button {
 /* SearchComponent Styles*/
 .search-results {
   background-color: #ffffff;
+  border-radius: 0px 0px 5px 5px;
+  font-weight: bold;
+  max-height: 100px;
+  overflow-y: auto;
+
+  ul {
+    list-style-type: none;
+    padding: 0px;
+  }
+
+  li {
+    padding: 5px;
+  }
+
+  li:hover {
+    background-color: #f1f1f1;
+    border-radius: 0px 0px 5px 5px;
+    cursor: pointer;
+  }
 }
 
 .search-box{
@@ -66,13 +85,13 @@ button {
 
 .input-search{
   height: 50px;
-  width: 50px;
+  width: 300px;
   border-style: none;
   padding: 10px;
   font-size: 18px;
   letter-spacing: 2px;
   outline: none;
-  border-radius: 25px;
+  border-radius: 5px 5px 0px 0px;
   transition: all .5s ease-in-out;
   background-color: #22a6b3;
   padding-right: 40px;

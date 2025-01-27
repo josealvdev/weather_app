@@ -14,7 +14,7 @@
           </l-marker>
      </l-map>
      <CityComponent v-if="isModalVisible" :cityObject="cityObject" @close="closeModal()" />
-     <SearchComponent />
+     <SearchComponent @openm="openModal"/>
 </template>
 
 <script setup>
@@ -25,7 +25,7 @@ import { ref } from 'vue';
 import CityComponent from "./CityComponent.vue";
 import SearchComponent from "./SearchComponent.vue";
 
-import cities from "./../assets/es.json";
+import cities from "./../assets/db/es.json";
 //import cityIcon from "./../assets/img/city.png";
 
 import { useCityStore } from '@/stores/city';
