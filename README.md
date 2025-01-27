@@ -2,6 +2,8 @@
 
 This app shows the current weather of the cities of Spain.
 
+https://josealvdev-vue3-weather-app.netlify.app/
+
 ## Resources
 Vue Router:
 https://router.vuejs.org/
