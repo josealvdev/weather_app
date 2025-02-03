@@ -2,9 +2,14 @@
     <div class="search-box">
         <button class="btn-search"><img :src="searchIcon" class="fas fa-search"></img></button>
         <input type="text" v-model="search" class="input-search" placeholder="Busca tu ciudad...">
-        <div v-if="search.length > 0" class="search-results">
+        <div v-if="results.length >= 1" class="search-results">
             <ul>
-                <li v-for="city in results" @click="emit('openm', city)">{{ city.city }}</li>
+                <li v-for="city in results" @click="emit('openm', city);search = '';">{{ city.city }}</li>
+            </ul>
+        </div>
+        <div v-else-if="search.length > 0 && results.length == 0" class="search-results">
+            <ul>
+                <li>Sin resultados...</li>
             </ul>
         </div>
     </div>

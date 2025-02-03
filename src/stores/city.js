@@ -11,8 +11,9 @@ export const useCityStore = defineStore('city', () => {
     
     function setCityWeatherIcon() {
         let storeIcons = JSON.parse(localStorage.getItem('citiesWeatherIcon')) || [];
+        let date = localStorage.getItem('dateSave') || 0;
 
-        if (storeIcons.length <= 0) {
+        if (storeIcons.length <= 0 || date != new Date().getDate()) {
             let lats = '';
             let lngs = '';
 
@@ -29,6 +30,7 @@ export const useCityStore = defineStore('city', () => {
                 }
             }).finally(() => {
                 localStorage.setItem('citiesWeatherIcon', JSON.stringify(citiesWeatherIcon.value));
+                localStorage.setItem('dateSave', new Date().getDate());
             });
         } else {
             for (let k = 0; k < storeIcons.length; k++) {
