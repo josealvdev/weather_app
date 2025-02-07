@@ -10,11 +10,14 @@
     "test:unit": "vitest"
   },
   "dependencies": {
+    "@primevue/themes": "^4.2.5",
     "@vue-leaflet/vue-leaflet": "^0.10.1",
     "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.7",
     "leaflet": "^1.9.4",
     "pinia": "^2.3.0",
+    "primevue": "^4.2.5",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },

@@ -32,7 +32,7 @@ main {
   padding: 20px;
   border-radius: 8px !important;
   width: 70% !important;
-  max-height: 450px;
+  max-height: 600px;
 
   h3 {
     margin-bottom: 0px;
@@ -186,26 +186,15 @@ button {
   width: 40px;
 }
 
-.dayDate {
-  font-size: 1rem;
-}
-
 @media (max-width: 1230px) {
   .modal-city{
     width: 90% !important;
-  }
-  
-  .card-body{
-    padding: 0 !important;
   }
 
   .closeb{
     right: 4em;
   }
 
-  .dayDate {
-    font-size: 0.8rem;
-  }
 }
 
 @media (max-width: 850px) {
@@ -230,5 +219,12 @@ button {
   .cityName{
     font-size: 21px;
   }
+}
+
+@media (max-width: 431px) {
+  .modal-city{
+    padding: 10px !important;
+  }
+
 }
 /* End CityComponent Styles*/

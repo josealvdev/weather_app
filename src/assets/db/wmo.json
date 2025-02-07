@@ -42,7 +42,7 @@
 	"45":{
 		"day":{
 			"description":"Foggy",
-			"image":"http://openweathermap.org/img/wn/50d@2x.png"
+			"image":"foggy.png"
 		},
 		"night":{
 			"description":"Foggy",
@@ -52,7 +52,7 @@
 	"48":{
 		"day":{
 			"description":"Rime Fog",
-			"image":"http://openweathermap.org/img/wn/50d@2x.png"
+			"image":"foggy.png"
 		},
 		"night":{
 			"description":"Rime Fog",

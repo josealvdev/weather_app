@@ -110,17 +110,6 @@
     "population_proper": "423350"
   }, 
   {
-    "city": "Santa Cruz", 
-    "lat": "28.4667", 
-    "lng": "-16.2500", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Canary Islands", 
-    "capital": "admin", 
-    "population": "538000", 
-    "population_proper": "209395"
-  }, 
-  {
     "city": "Alicante", 
     "lat": "38.3453", 
     "lng": "-0.4831", 
@@ -451,17 +440,6 @@
     "population_proper": "89010"
   }, 
   {
-    "city": "La Laguna", 
-    "lat": "28.4853", 
-    "lng": "-16.3167", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Canary Islands", 
-    "capital": "", 
-    "population": "159034", 
-    "population_proper": "159034"
-  }, 
-  {
     "city": "Marbella", 
     "lat": "36.5167", 
     "lng": "-4.8833", 
@@ -680,17 +658,6 @@
     "capital": "minor", 
     "population": "104250", 
     "population_proper": "104250"
-  }, 
-  {
-    "city": "Telde", 
-    "lat": "27.9833", 
-    "lng": "-15.4167", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Canary Islands", 
-    "capital": "", 
-    "population": "102769", 
-    "population_proper": "102472"
   }, 
   {
     "city": "San Vicente de Baracaldo", 
@@ -1243,17 +1210,6 @@
     "population_proper": "45644"
   }, 
   {
-    "city": "Portugalete", 
-    "lat": "43.3194", 
-    "lng": "-3.0194", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Basque Country", 
-    "capital": "", 
-    "population": "44629", 
-    "population_proper": "44629"
-  }, 
-  {
     "city": "Alcantarilla", 
     "lat": "37.9722", 
     "lng": "-1.2094", 
@@ -1329,17 +1285,6 @@
     "capital": "", 
     "population": "38974", 
     "population_proper": "38974"
-  }, 
-  {
-    "city": "Arucas", 
-    "lat": "28.1188", 
-    "lng": "-15.5231", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Canary Islands", 
-    "capital": "", 
-    "population": "38601", 
-    "population_proper": "38601"
   }, 
   {
     "city": "Ripollet", 
@@ -1683,17 +1628,6 @@
     "population_proper": "25115"
   }, 
   {
-    "city": "Armilla", 
-    "lat": "37.1500", 
-    "lng": "-3.6167", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "25059", 
-    "population_proper": "25059"
-  }, 
-  {
     "city": "Olesa de Montserrat", 
     "lat": "41.5450", 
     "lng": "1.8944", 
@@ -1780,17 +1714,6 @@
     "capital": "", 
     "population": "22472", 
     "population_proper": "22472"
-  }, 
-  {
-    "city": "Maracena", 
-    "lat": "37.2000", 
-    "lng": "-3.6333", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "22275", 
-    "population_proper": "22275"
   }, 
   {
     "city": "Moncada", 
@@ -1934,18 +1857,7 @@
     "capital": "", 
     "population": "19213", 
     "population_proper": "19213"
-  }, 
-  {
-    "city": "La Corredoría", 
-    "lat": "43.3853", 
-    "lng": "-5.8208", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Asturias", 
-    "capital": "", 
-    "population": "19191", 
-    "population_proper": "19191"
-  }, 
+  },
   {
     "city": "Cardedeu", 
     "lat": "41.6406", 
@@ -2000,17 +1912,6 @@
     "capital": "", 
     "population": "17670", 
     "population_proper": "17670"
-  }, 
-  {
-    "city": "Castilleja de la Cuesta", 
-    "lat": "37.3833", 
-    "lng": "-6.0500", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "17167", 
-    "population_proper": "17167"
   }, 
   {
     "city": "Canovellas", 
@@ -2077,17 +1978,6 @@
     "capital": "", 
     "population": "16766", 
     "population_proper": "16766"
-  }, 
-  {
-    "city": "Churriana de la Vega", 
-    "lat": "37.1500", 
-    "lng": "-3.6500", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "16445", 
-    "population_proper": "16445"
   }, 
   {
     "city": "Arenys de Mar", 
@@ -2198,18 +2088,7 @@
     "capital": "", 
     "population": "14872", 
     "population_proper": "14872"
-  }, 
-  {
-    "city": "Ogíjares", 
-    "lat": "37.1167", 
-    "lng": "-3.6000", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "14803", 
-    "population_proper": "14803"
-  }, 
+  },
   {
     "city": "Cuarte de Huerva", 
     "lat": "41.5833", 
@@ -2220,18 +2099,7 @@
     "capital": "", 
     "population": "14701", 
     "population_proper": "14701"
-  }, 
-  {
-    "city": "Santa Marta de Tormes", 
-    "lat": "40.9494", 
-    "lng": "-5.6325", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Castilla y León", 
-    "capital": "", 
-    "population": "14661", 
-    "population_proper": "14661"
-  }, 
+  },
   {
     "city": "Gines", 
     "lat": "37.3875", 
@@ -2288,17 +2156,6 @@
     "population_proper": "12699"
   }, 
   {
-    "city": "Ceuti", 
-    "lat": "38.0789", 
-    "lng": "-1.2722", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Murcia", 
-    "capital": "", 
-    "population": "12668", 
-    "population_proper": "12668"
-  }, 
-  {
     "city": "Mongat", 
     "lat": "41.4690", 
     "lng": "2.2805", 
@@ -2308,17 +2165,6 @@
     "capital": "", 
     "population": "12462", 
     "population_proper": "12462"
-  }, 
-  {
-    "city": "Huétor Vega", 
-    "lat": "37.1500", 
-    "lng": "-3.5667", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "12159", 
-    "population_proper": "12159"
   }, 
   {
     "city": "San Andrés de Llevaneras", 
@@ -2352,18 +2198,7 @@
     "capital": "", 
     "population": "11736", 
     "population_proper": "11736"
-  }, 
-  {
-    "city": "Peligros", 
-    "lat": "37.2333", 
-    "lng": "-3.6333", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "11676", 
-    "population_proper": "11676"
-  }, 
+  },  
   {
     "city": "Beniel", 
     "lat": "38.0464", 
@@ -2583,18 +2418,7 @@
     "capital": "", 
     "population": "7799", 
     "population_proper": "7799"
-  }, 
-  {
-    "city": "Cúllar-Vega", 
-    "lat": "37.1531", 
-    "lng": "-3.6706", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "7770", 
-    "population_proper": "7770"
-  }, 
+  },  
   {
     "city": "Foyos", 
     "lat": "39.5386", 
@@ -2726,29 +2550,7 @@
     "capital": "", 
     "population": "6109", 
     "population_proper": "6109"
-  }, 
-  {
-    "city": "Tanos", 
-    "lat": "43.3325", 
-    "lng": "-4.0438", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Cantabria", 
-    "capital": "", 
-    "population": "5857", 
-    "population_proper": "5857"
-  }, 
-  {
-    "city": "Cájar", 
-    "lat": "37.1333", 
-    "lng": "-3.5667", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "5447", 
-    "population_proper": "5447"
-  }, 
+  },
   {
     "city": "Capellades", 
     "lat": "41.5319", 
@@ -2783,17 +2585,6 @@
     "population_proper": "4811"
   }, 
   {
-    "city": "Rafal", 
-    "lat": "38.1000", 
-    "lng": "-0.8333", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Valencia", 
-    "capital": "", 
-    "population": "4634", 
-    "population_proper": "4634"
-  }, 
-  {
     "city": "Formentera de Segura", 
     "lat": "38.0833", 
     "lng": "-0.7500", 
@@ -2825,29 +2616,7 @@
     "capital": "", 
     "population": "4343", 
     "population_proper": "4343"
-  }, 
-  {
-    "city": "Jun", 
-    "lat": "37.2167", 
-    "lng": "-3.6000", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "4061", 
-    "population_proper": "4061"
-  }, 
-  {
-    "city": "Sierrapando", 
-    "lat": "43.3436", 
-    "lng": "-4.0367", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Cantabria", 
-    "capital": "", 
-    "population": "3948", 
-    "population_proper": "3948"
-  }, 
+  },
   {
     "city": "Bonrepós y Mirambell", 
     "lat": "39.5206", 
@@ -2924,18 +2693,7 @@
     "capital": "", 
     "population": "2978", 
     "population_proper": "2978"
-  }, 
-  {
-    "city": "Castilleja de Guzmán", 
-    "lat": "37.4000", 
-    "lng": "-6.0500", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Andalucía", 
-    "capital": "", 
-    "population": "2874", 
-    "population_proper": "2874"
-  }, 
+  },  
   {
     "city": "Barreda", 
     "lat": "43.3722", 
@@ -3058,17 +2816,6 @@
     "population_proper": "1559"
   }, 
   {
-    "city": "Benzú", 
-    "lat": "35.9161", 
-    "lng": "-5.3731", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Ceuta", 
-    "capital": "", 
-    "population": "1221", 
-    "population_proper": "1221"
-  }, 
-  {
     "city": "Carpesa", 
     "lat": "39.5167", 
     "lng": "-0.3778", 
@@ -3122,16 +2869,5 @@
     "capital": "", 
     "population": "1039", 
     "population_proper": "1039"
-  }, 
-  {
-    "city": "Torres", 
-    "lat": "43.3532", 
-    "lng": "-4.0684", 
-    "country": "Spain", 
-    "iso2": "ES", 
-    "admin_name": "Cantabria", 
-    "capital": "", 
-    "population": "1033", 
-    "population_proper": "1033"
   }
 ]
