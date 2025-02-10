@@ -7,7 +7,7 @@
           <l-marker v-for="(city, index) in cities" :key="index" :lat-lng="[city.lat,city.lng]">
                <l-icon
                     :icon-size="[52, 50]"
-                    :icon-anchor="[24, 10]"
+                    :icon-anchor="[25, 30]"
                     :iconUrl="citiesWeatherIcon[index]">
                </l-icon>
                <l-popup><b style="font-size: 15px;">{{city.city}}</b><br>({{ city.admin_name }})<br><br><span class="open" @click="openModal(city)">Ver</span></l-popup>

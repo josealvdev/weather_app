@@ -46,7 +46,7 @@
 		},
 		"night":{
 			"description":"Foggy",
-			"image":"http://openweathermap.org/img/wn/50n@2x.png"
+			"image":"foggy.png"
 		}
 	},
 	"48":{
@@ -56,7 +56,7 @@
 		},
 		"night":{
 			"description":"Rime Fog",
-			"image":"http://openweathermap.org/img/wn/50n@2x.png"
+			"image":"foggy.png"
 		}
 	},
 	"51":{
@@ -162,41 +162,41 @@
 	"71":{
 		"day":{
 			"description":"Light Snow",
-			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+			"image":"snow.png"
 		},
 		"night":{
 			"description":"Light Snow",
-			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+			"image":"snow.png"
 		}
 	},
 	"73":{
 		"day":{
 			"description":"Snow",
-			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+			"image":"snow.png"
 		},
 		"night":{
 			"description":"Snow",
-			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+			"image":"snow.png"
 		}
 	},
 	"75":{
 		"day":{
 			"description":"Heavy Snow",
-			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+			"image":"snow.png"
 		},
 		"night":{
 			"description":"Heavy Snow",
-			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+			"image":"snow.png"
 		}
 	},
 	"77":{
 		"day":{
 			"description":"Snow Grains",
-			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+			"image":"snow.png"
 		},
 		"night":{
 			"description":"Snow Grains",
-			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+			"image":"snow.png"
 		}
 	},
 	"80":{
@@ -232,21 +232,21 @@
 	"85":{
 		"day":{
 			"description":"Light Snow Showers",
-			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+			"image":"snow.png"
 		},
 		"night":{
 			"description":"Light Snow Showers",
-			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+			"image":"snow.png"
 		}
 	},
 	"86":{
 		"day":{
 			"description":"Snow Showers",
-			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+			"image":"snow.png"
 		},
 		"night":{
 			"description":"Snow Showers",
-			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+			"image":"snow.png"
 		}
 	},
 	"95":{
